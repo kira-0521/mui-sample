@@ -1,1 +1,1 @@
-export * from './OverrideTypography'
+export * from './Typography'
